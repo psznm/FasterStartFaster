@@ -1,0 +1,11 @@
+{
+    "name": "FasterStartFaster",
+    "version": "1.0.0",
+    "title": "Faster Start (with faster bots)",
+    "author": "psznm",
+    "contact": "psznm@seznam.cz",
+    "homepage": "https://github.com/psznm/LessUPS",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1", "FasterStart >= 1.1.1"],
+    "description": "Increases robot speed of fusion bots so that they keep up with players running speed."
+}
